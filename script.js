@@ -11,12 +11,12 @@ const xionBassadors = [
         }
     },
     {
-        name: "Clara 'Crusader' Jones",
-        role: "Crusader", // Correct rank from the XION program
+        name: "Blue Prometheans",
+        role: "Promethean", // Correct rank from the XION program
         bio: "Focused on community building and fostering a welcoming environment for newcomers.",
-        avatar: "https://via.placeholder.com/150",
+        avatar: "https://i.ibb.co/nNnCWDT6/Promethean-1813.png",
         socials: {
-            twitter: "https://twitter.com/anotherhandle",
+            twitter: "https://twitter.com/burnt_xion",
             discord: "anotherdiscordhandle#5678"
         }
     },
