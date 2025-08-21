@@ -3,7 +3,7 @@ const xionBassadors = [
         name: "ACRis",
         role: "Elect",
         bio: "A Singer Elect and Moderator from The Philippines.",
-        avatar: "https://i.ibb.co/22B9h0c/Screenshot-2025-08-21-134004.png",
+        avatar: "https://i.ibb.co/hR4yD5MD/photo-2024-11-10-23-40-29.jpg",
         socials: {
             twitter: "https://twitter.com/itsmeacris",
             discord: "@itsmeacris"
