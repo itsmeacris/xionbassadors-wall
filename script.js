@@ -1,13 +1,13 @@
 // A simple data source for the XIONBassadors
 const xionBassadors = [
     {
-        name: "Aidan 'Airdrop' Smith",
+        name: "ACRis",
         role: "Elect", // Correct rank from the XION program
-        bio: "An early supporter and dedicated content creator for the XION ecosystem.",
-        avatar: "https://via.placeholder.com/150",
+        bio: "A Singer Elect and Moderator from The Philippines.",
+        avatar: "https://imgur.com/a/xM4spPr",
         socials: {
-            twitter: "https://twitter.com/yourhandle",
-            discord: "yourdiscordhandle#1234"
+            twitter: "https://x.com/itsmeacris",
+            discord: "@itsmeacris"
         }
     },
     {
