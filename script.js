@@ -4,7 +4,7 @@ const xionBassadors = [
         name: "ACRis",
         role: "Elect", // Correct rank from the XION program
         bio: "A Singer Elect and Moderator from The Philippines.",
-        avatar: "https://imgur.com/WNVKY1V",
+        avatar: "https://ibb.co/DDvt5Xb5",
         socials: {
             twitter: "https://x.com/itsmeacris",
             discord: "@itsmeacris"
