@@ -1,26 +1,24 @@
-// A simple data source for the XIONBassadors
 const xionBassadors = [
     {
         name: "ACRis",
-        role: "Elect", // Correct rank from the XION program
+        role: "Elect",
         bio: "A Singer Elect and Moderator from The Philippines.",
-        avatar: "https://i.ibb.co/hR4yD5MD/photo-2024-11-10-23-40-29.jpg",
+        avatar: "https://i.ibb.co/22B9h0c/Screenshot-2025-08-21-134004.png",
         socials: {
-            twitter: "https://x.com/itsmeacris",
+            twitter: "https://twitter.com/itsmeacris",
             discord: "@itsmeacris"
         }
     },
     {
-        name: "Blue Prometheans",
-        role: "Promethean", // Correct rank from the XION program
+        name: "Clara 'Crusader' Jones",
+        role: "Crusader",
         bio: "Focused on community building and fostering a welcoming environment for newcomers.",
-        avatar: "https://i.ibb.co/nNnCWDT6/Promethean-1813.png",
+        avatar: "https://via.placeholder.com/150",
         socials: {
-            twitter: "https://twitter.com/burnt_xion",
-            discord: "anotherdiscordhandle#5678"
+            twitter: "https://twitter.com/anotherhandle",
+            discord: "anotherdiscordhandle"
         }
     },
-    // Add more objects for other Elects and Crusaders
     {
         name: "David 'Decentralized' Lee",
         role: "Elect",
@@ -28,9 +26,40 @@ const xionBassadors = [
         avatar: "https://via.placeholder.com/150",
         socials: {
             twitter: "https://twitter.com/devleed",
-            discord: "devleed#9012"
+            discord: "devleed"
         }
-    }
+    },
+    // Start of the 30 placeholder Elects
+    { name: "Elect 1", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect1" } },
+    { name: "Elect 2", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect2" } },
+    { name: "Elect 3", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect3" } },
+    { name: "Elect 4", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect4" } },
+    { name: "Elect 5", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect5" } },
+    { name: "Elect 6", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect6" } },
+    { name: "Elect 7", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect7" } },
+    { name: "Elect 8", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect8" } },
+    { name: "Elect 9", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect9" } },
+    { name: "Elect 10", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect10" } },
+    { name: "Elect 11", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect11" } },
+    { name: "Elect 12", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect12" } },
+    { name: "Elect 13", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect13" } },
+    { name: "Elect 14", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect14" } },
+    { name: "Elect 15", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect15" } },
+    { name: "Elect 16", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect16" } },
+    { name: "Elect 17", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect17" } },
+    { name: "Elect 18", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect18" } },
+    { name: "Elect 19", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect19" } },
+    { name: "Elect 20", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect20" } },
+    { name: "Elect 21", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect21" } },
+    { name: "Elect 22", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect22" } },
+    { name: "Elect 23", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect23" } },
+    { name: "Elect 24", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect24" } },
+    { name: "Elect 25", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect25" } },
+    { name: "Elect 26", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect26" } },
+    { name: "Elect 27", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect27" } },
+    { name: "Elect 28", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect28" } },
+    { name: "Elect 29", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect29" } },
+    { name: "Elect 30", role: "Elect", bio: "A dedicated member of the XION community.", avatar: "https://via.placeholder.com/150", socials: { twitter: "#", discord: "elect30" } }
 ];
 
 const ambassadorWall = document.getElementById('ambassador-wall');
@@ -45,15 +74,14 @@ function createAmbassadorCard(ambassador) {
         <p class="role">${ambassador.role}</p>
         <p>${ambassador.bio}</p>
         <div class="socials">
-            ${ambassador.socials.twitter ? `<a href="${ambassador.socials.twitter}" target="_blank">Twitter</a>` : ''}
-            ${ambassador.socials.discord ? `<span class="discord">Discord: ${ambassador.socials.discord}</span>` : ''}
+            ${ambassador.socials.twitter ? `<a href="${ambassador.socials.twitter}" class="twitter-button" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>` : ''}
+            ${ambassador.socials.discord ? `<div class="discord-box"><i class="fab fa-discord"></i> ${ambassador.socials.discord}</div>` : ''}
         </div>
     `;
 
     return card;
 }
 
-// Loop through the data and add each card to the wall
 xionBassadors.forEach(ambassador => {
     const card = createAmbassadorCard(ambassador);
     ambassadorWall.appendChild(card);
